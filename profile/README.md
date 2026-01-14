@@ -58,6 +58,6 @@ If you’re working on something related to **forecasting, modeling, or intellig
 
 * **Website:** [https://pluggedspace.org](https://pluggedspace.org)
 * **Labs Division:** [labs@pluggedspace.org](mailto:labs@pluggedspace.org)
-* **Twitter/X:** [@pluggedspace](https://twitter.com/pluggedspace)
+* **Twitter/X:** [@pluggedspace](https://twitter.com/pluggedspace_io)
 
 ---

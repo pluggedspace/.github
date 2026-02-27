@@ -1,63 +1,87 @@
-# PluggedSpace Labs
+# Pluggedspace
 
-**Innovation meets intelligence.**
-PluggedSpace Labs is the R&D arm of PluggedSpace, dedicated to applied AI, predictive modeling, and intelligent automation. We build systems that turn data into foresight and decisions into precision.
+Pluggedspace builds enterprise intelligence infrastructure.
 
----
+We design systems that transform raw, fragmented data into governed, production-grade decision engines.
 
-## 🔬 What We Do
-
-### Predictive Modeling
-
-We design and deploy machine learning models that forecast outcomes across domains such as:
-
-* **Sports Analytics:** Match prediction and performance insights.
-* **Financial Signals:** Market movement and portfolio optimization.
-* **Operational Intelligence:** Resource allocation, anomaly detection, and process automation.
-
-### AI Infrastructure
-
-We build modular APIs, data pipelines, and real-time inference systems using:
-
-* **Python + Django REST Framework** for backend logic.
-* **Scikit-learn / XGBoost / PyTorch** for model training.
-* **Kong Gateway + Microservices** for secure and scalable delivery.
-
-### Experimentation & Research
-
-PluggedSpace Labs serves as our testbed for:
-
-* New modeling techniques and architectures.
-* Synthetic data generation and validation.
-* Cross-domain knowledge transfer and automation tools.
+Our core platform — **Akili’s Weave** — is an Enterprise Intelligence Platform engineered for high-performance analytics, multi-tenant governance, and operational AI deployment.
 
 ---
 
-## 🧠 Vision
+## Akili’s Weave
 
-Our mission is to make predictive intelligence accessible to developers, startups, and organizations—through open, composable systems and transparent research.
+**Enterprise Intelligence Platform**
+
+Akili’s Weave is a cognitive middleware layer between data and action.
+
+It provides:
+
+* Structured dataset lifecycle management (raw → refined → feature → trained)
+* High-performance analytical execution powered by DuckDB
+* Centrally governed model registry and inference pipelines
+* Multi-tenant resource isolation and usage metering
+* Compliance enforcement and audit logging
+* Edge-optimized intelligence delivery
+
+Akili is not a dashboard.
+It is not a model wrapper.
+It is infrastructure for decision systems.
+
+---
+
+## Architecture Principles
+
+Akili is designed around:
+
+* Local-first analytical performance
+* Cloud-agnostic storage integration
+* Deterministic dataset versioning
+* Transparent lineage tracking
+* Governed intelligence orchestration
+
+The platform is built using:
+
+* Django for control plane orchestration
+* DuckDB for analytical execution
+* Celery and Redis for distributed workloads
+* Modular intelligence pipelines for scalable inference
 
 ---
 
-## 🚀 Current Focus
+## Strategic Direction
 
-* **Predictive Sports Engine:** An ML-driven match forecasting system.
-* **Investment Insights Portal:** Predictive analytics for asset trends.
-* **KYC + Fraud Detection Models:** Behavioral data scoring for risk management.
+Pluggedspace is focused on building intelligence infrastructure optimized for:
+
+* Complex data environments
+* Emerging market realities
+* Regulatory-aware systems
+* Enterprise-grade governance
+
+We are not building isolated AI tools.
+
+We are building the substrate that powers them.
+
+---
+
+## Research & Experimental Systems
+
+Exploratory projects and applied prototypes are developed under Pluggedspace Labs.
+
+Labs exists to test vertical applications, modeling techniques, and applied automation systems.
+Where strategically aligned, successful research may integrate into Akili’s infrastructure.
 
 ---
 
-## 💡 Join the Experiment
+## Collaboration
 
-PluggedSpace Labs is open to collaboration on research, model design, and data engineering.
-If you’re working on something related to **forecasting, modeling, or intelligent systems**, reach out or open a discussion.
+Akili’s core infrastructure follows structured contribution standards.
 
----
-
-### 📫 Contact
-
-* **Website:** [https://pluggedspace.org](https://pluggedspace.org)
-* **Labs Division:** [labs@pluggedspace.org](mailto:labs@pluggedspace.org)
-* **Twitter/X:** [@pluggedspace](https://twitter.com/pluggedspace_io)
+Research collaborations and experimental contributions are managed through Labs repositories.
 
 ---
+
+## Positioning
+
+Pluggedspace is an intelligence infrastructure company.
+
+Our focus is long-term system architecture — not short-term application features.

@@ -28,11 +28,11 @@ Atlas is designed for:
 
 🔗 [Explore Atlas](https://atlas.pluggedspace.org) · [Product page](https://pluggedspace.org/products/atlas)
 
-### Weave — Managed Enterprise Agentic OS
+### Akili Weave — Managed Enterprise Agentic OS
 
-[Weave](https://agents.pluggedspace.org) is Pluggedspace's managed operating environment for deploying and operating AI agents across enterprise workflows.
+[Akili Weave](https://agents.pluggedspace.org) is Pluggedspace's managed operating environment for deploying and operating AI agents across enterprise workflows.
 
-Weave brings together:
+Akilii Weave brings together:
 
 - AI agents
 - Agent orchestration
@@ -43,15 +43,15 @@ Weave brings together:
 - Workflow automation
 - Autonomous operations
 
-Weave supports manual, hybrid, and autonomous operating modes, and is hosted and operated by Pluggedspace as a managed service.
+AKili Weave supports manual, hybrid, and autonomous operating modes, and is hosted and operated by Pluggedspace as a managed service.
 
 🔗 [Explore Weave](https://agents.pluggedspace.org)
 
 ---
 
-## How Atlas & Weave Fit Together
+## How Atlas & Akili Weave Fit Together
 
-Atlas and Weave are complementary layers of the Pluggedspace infrastructure stack.
+Atlas and Akili Weave are complementary layers of the Pluggedspace infrastructure stack.
 
 ```
 ┌──────────────────────────────────────────────┐
@@ -73,7 +73,7 @@ Atlas and Weave are complementary layers of the Pluggedspace infrastructure stac
 ```
 
 - **Atlas** provides intelligence infrastructure.
-- **Weave** provides the agentic operating layer.
+- **Akili Weave** provides the agentic operating layer.
 
 Together, they form the core of Pluggedspace's intelligent infrastructure stack.
 

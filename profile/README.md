@@ -202,4 +202,4 @@ There are several ways to engage with Pluggedspace:
 *Operate intelligent systems.*
 *Extend what software can do.*
 
-[Website](https://pluggedspace.org) · [GitHub](https://github.com/pluggedspace) · [Atlas](https://atlas.pluggedspace.org) · [Weave](https://agents.pluggedspace.org) · [Research](https://pluggedspace.org/research)
+[Website](https://pluggedspace.org) · [GitHub](https://github.com/pluggedspace) · [Atlas](https://atlas.pluggedspace.org) · [Akili Weave](https://agents.pluggedspace.org) · [Research](https://pluggedspace.org/research)

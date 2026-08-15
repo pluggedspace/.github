@@ -28,11 +28,11 @@ Atlas is designed for:
 
 🔗 [Explore Atlas](https://atlas.pluggedspace.org) · [Product page](https://pluggedspace.org/products/atlas)
 
-### Akili Weave — Managed Enterprise Agentic OS
+### Pluggedspace Console — Managed Enterprise Agentic OS
 
-[Akili Weave](https://agents.pluggedspace.org) is Pluggedspace's managed operating environment for deploying and operating AI agents across enterprise workflows.
+[Pluggedspace Console](https://agents.pluggedspace.org) is Pluggedspace's managed operating environment for deploying and operating AI agents across enterprise workflows.
 
-Akilii Weave brings together:
+Pluggedspace Console brings together:
 
 - AI agents
 - Agent orchestration
@@ -43,15 +43,15 @@ Akilii Weave brings together:
 - Workflow automation
 - Autonomous operations
 
-AKili Weave supports manual, hybrid, and autonomous operating modes, and is hosted and operated by Pluggedspace as a managed service.
+Pluggedspace Console supports manual, hybrid, and autonomous operating modes, and is hosted and operated by Pluggedspace as a managed service.
 
-🔗 [Explore Weave](https://agents.pluggedspace.org)
+🔗 [Explore Pluggedspace Console](https://agents.pluggedspace.org)
 
 ---
 
-## How Atlas & Akili Weave Fit Together
+## How Atlas & Pluggedspace Console Fit Together
 
-Atlas and Akili Weave are complementary layers of the Pluggedspace infrastructure stack.
+Atlas and Pluggedspace Console are complementary layers of the Pluggedspace infrastructure stack.
 
 ```
 ┌──────────────────────────────────────────────┐
@@ -73,7 +73,7 @@ Atlas and Akili Weave are complementary layers of the Pluggedspace infrastructur
 ```
 
 - **Atlas** provides intelligence infrastructure.
-- **Akili Weave** provides the agentic operating layer.
+- **Pluggedspace Console** provides the agentic operating layer.
 
 Together, they form the core of Pluggedspace's intelligent infrastructure stack.
 
@@ -202,4 +202,4 @@ There are several ways to engage with Pluggedspace:
 *Operate intelligent systems.*
 *Extend what software can do.*
 
-[Website](https://pluggedspace.org) · [GitHub](https://github.com/pluggedspace) · [Atlas](https://atlas.pluggedspace.org) · [Akili Weave](https://agents.pluggedspace.org) · [Research](https://pluggedspace.org/research)
+[Website](https://pluggedspace.org) · [GitHub](https://github.com/pluggedspace) · [Atlas](https://atlas.pluggedspace.org) · [Pluggedspace Console](https://agents.pluggedspace.org) · [Research](https://pluggedspace.org/research)

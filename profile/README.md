@@ -58,7 +58,7 @@ Atlas and Pluggedspace Console are complementary layers of the Pluggedspace infr
 │             PLUGGEDSPACE SOLUTIONS            │
 │       Enterprise Systems & Implementation     │
 ├──────────────────────────────────────────────┤
-│                     WEAVE                     │
+│                  CONSOLE                     │
 │        Managed Enterprise Agentic OS          │
 │                                                │
 │  Agents · Memory · Tools · Policies ·         │
@@ -189,7 +189,7 @@ There are several ways to engage with Pluggedspace:
 
 | Path | Description |
 |------|-------------|
-| **Platforms** | Use Atlas and Weave as managed infrastructure for intelligent systems. |
+| **Platforms** | Use Atlas and Pluggedspace Console as managed infrastructure for intelligent systems. |
 | **Solutions** | Work with Pluggedspace Solutions to design and build custom enterprise systems. |
 | **Open Source** | Use, study, extend, and contribute to our public projects. |
 | **Research** | Explore our research and collaborate with us on applied intelligent-system architectures. |

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pluggedspace
+<h2 align="center">Pluggedspace</h2>
 
 **We research, build, and deploy technology for complex systems.**
 
@@ -16,7 +16,7 @@ Pluggedspace is a technology company building software, infrastructure, intellig
 
 ---
 
-## About
+**About**
 
 We combine research, engineering, and deployment to turn difficult technical problems into systems that can be operated in the real world.
 
@@ -24,7 +24,7 @@ Our work spans **intelligent software**, **data**, **automation**, **infrastruct
 
 ---
 
-## How We Build
+**How We Build**
 
 Pluggedspace operates through a continuous technology lifecycle:
 
@@ -40,7 +40,7 @@ flowchart TB
     style D fill:#533483,stroke:#e94560,color:#fff
 ```
 
-### 🧪 Labs — *Where technology starts*
+**🧪 Labs — *Where technology starts***
 
 Pluggedspace Labs explores new architectures, systems, technologies, and ideas through experiments, prototypes, and applied engineering.
 
@@ -48,19 +48,19 @@ Projects may become products, infrastructure, research, open-source software —
 
 **[→ Explore Labs](https://pluggedspace.org/labs)**
 
-### 📊 Research — *Where we turn experiments into knowledge*
+**📊 Research — *Where we turn experiments into knowledge***
 
 Research documents technical findings, architectural approaches, field tests, experiments, and lessons learned from building and operating real systems.
 
 **[→ Explore Research](https://pluggedspace.org/research)**
 
-### 🏗️ Products — *Where validated technology becomes usable*
+**🏗️ Products — *Where validated technology becomes usable***
 
 Our products package technologies developed through research and engineering into platforms and systems that organizations can actually operate.
 
 **[→ Explore Products](https://pluggedspace.org/products)**
 
-### 🚀 Solutions — *Where technology meets the real world*
+**🚀 Solutions — *Where technology meets the real world***
 
 Pluggedspace applies its platforms, infrastructure, and engineering capabilities to complex organizational problems that require implementation, integration, or custom systems.
 
@@ -68,11 +68,11 @@ Pluggedspace applies its platforms, infrastructure, and engineering capabilities
 
 ---
 
-## Products
+**Products**
 
 Pluggedspace currently develops platforms across intelligent systems, data, automation, and infrastructure.
 
-### Atlas — *Intelligence and systems infrastructure*
+**Atlas — *Intelligence and systems infrastructure***
 
 [**Atlas**](https://atlas.pluggedspace.org) is Pluggedspace's intelligence and systems engine for building applications and infrastructure around data, models, APIs, automation, and decision processes.
 
@@ -88,7 +88,7 @@ Atlas provides foundations for:
 
 **[→ Explore Atlas](https://atlas.pluggedspace.org)**
 
-### Pluggedspace Console — *The operating environment for intelligent work*
+**Pluggedspace Console — *The operating environment for intelligent work***
 
 [**Pluggedspace Console**](https://agents.pluggedspace.org) is Pluggedspace's managed environment for deploying and operating AI agents across organizational workflows.
 
@@ -106,7 +106,7 @@ It supports **manual**, **hybrid**, and **autonomous** operating modes.
 
 ---
 
-## The Stack
+**The Stack**
 
 Atlas and Console operate at different layers of the Pluggedspace technology stack.
 
@@ -142,7 +142,7 @@ Together they form part of the current Pluggedspace platform architecture.
 
 ---
 
-## Open Source
+**Open Source**
 
 We open-source selected technologies developed through our engineering and research work.
 
@@ -157,7 +157,7 @@ Our public repositories include infrastructure, security, compliance, developer 
 
 ---
 
-## Technology
+**Technology**
 
 Our engineering work is built around open technologies and composable systems.
 
@@ -189,7 +189,7 @@ Our current stack includes:
 
 ---
 
-## What We Explore
+**What We Explore**
 
 Our work is not restricted to a single technology category. Current and emerging areas include:
 
@@ -227,7 +227,7 @@ Our work is not restricted to a single technology category. Current and emerging
 
 ---
 
-## Work With Pluggedspace
+**Work With Pluggedspace**
 
 There are several ways to engage with the Pluggedspace ecosystem.
 
@@ -241,7 +241,7 @@ There are several ways to engage with the Pluggedspace ecosystem.
 
 ---
 
-## Our Approach
+**Our Approach**
 
 We believe useful technology sits at the intersection of research, engineering, and operations.
 
@@ -268,7 +268,7 @@ Then we decide what deserves to become **infrastructure**, a **product**, an **o
 
 <div align="center">
 
-### Pluggedspace
+<h2 align="center">Pluggedspace</h2>
 
 **Research. Build. Deploy.**
 *Technology for complex systems.*

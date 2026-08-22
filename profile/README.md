@@ -1,124 +1,166 @@
-# Pluggedspace
+Pluggedspace
 
-**Intelligent Infrastructure for AI-Native Organizations**
+We research, build, and deploy technology for complex systems.
 
-Pluggedspace is an intelligent infrastructure company building the systems that connect data, software, artificial intelligence, automation, and enterprise operations.
+Pluggedspace is a technology company building software, infrastructure, intelligent systems, and emerging technologies for organizations operating in complex environments.
 
-We build platforms, infrastructure, and software for organizations that need to turn information into reliable operational systems.
+We combine research, engineering, and deployment to turn difficult technical problems into systems that can be operated in the real world.
+
+Our work spans intelligent software, data, automation, infrastructure, security, and emerging technologies.
 
 ---
 
-## Our Platforms
+How We Build
 
-### Atlas — Intelligent AI Data Platform & Systems Engine
+Pluggedspace operates through a continuous technology lifecycle:
 
-[Atlas](https://atlas.pluggedspace.org) is Pluggedspace's intelligence and systems infrastructure layer.
+┌─────────────────────────────────────────────────┐
+│                       LABS                       │
+│        Explore problems · Build experiments      │
+│                 Develop technology               │
+├─────────────────────────────────────────────────┤
+│                     RESEARCH                     │
+│       Study · Validate · Document · Measure      │
+├─────────────────────────────────────────────────┤
+│                    PRODUCTS                     │
+│        Turn validated technology into systems    │
+├─────────────────────────────────────────────────┤
+│                   SOLUTIONS                     │
+│       Deploy technology into real operations     │
+└─────────────────────────────────────────────────┘
 
-Atlas provides the foundation for building systems that work with data, models, automation, APIs, and intelligent decision processes.
+Labs
 
-Atlas is designed for:
+Where technology starts.
+
+Pluggedspace Labs explores new architectures, systems, technologies, and ideas through experiments, prototypes, and applied engineering.
+
+Projects may become products, infrastructure, research, open-source software, or may simply inform what we build next.
+
+→ "Explore Labs" (https://pluggedspace.org/labs)
+
+Research
+
+Where we turn experiments into knowledge.
+
+Research documents technical findings, architectural approaches, field tests, experiments, and lessons learned from building and operating real systems.
+
+→ "Explore Research" (https://pluggedspace.org/research)
+
+Products
+
+Where validated technology becomes usable.
+
+Our products package technologies developed through research and engineering into platforms and systems that organizations can actually operate.
+
+→ "Explore Products" (https://pluggedspace.org/products)
+
+Solutions
+
+Where technology meets the real world.
+
+Pluggedspace applies its platforms, infrastructure, and engineering capabilities to complex organizational problems that require implementation, integration, or custom systems.
+
+→ "Explore Pluggedspace" (https://pluggedspace.org)
+
+---
+
+Products
+
+Pluggedspace currently develops platforms across intelligent systems, data, automation, and infrastructure.
+
+Atlas
+
+Intelligence and systems infrastructure.
+
+"Atlas" (https://atlas.pluggedspace.org) is Pluggedspace's intelligence and systems engine for building applications and infrastructure around data, models, APIs, automation, and decision processes.
+
+Atlas provides foundations for:
 
 - Data and intelligence workloads
 - AI and model-driven systems
-- Automated data processing
-- Intelligent applications
-- APIs and system integration
+- Data processing and orchestration
 - Analytical and decision-support systems
-- Infrastructure for AI-powered products
+- APIs and system integration
+- Intelligent applications
+- Automated system execution
 
-🔗 [Explore Atlas](https://atlas.pluggedspace.org) · [Product page](https://pluggedspace.org/products/atlas)
+→ "Explore Atlas" (https://atlas.pluggedspace.org)
 
-### Pluggedspace Console — Managed Enterprise Agentic OS
+---
 
-[Pluggedspace Console](https://agents.pluggedspace.org) is Pluggedspace's managed operating environment for deploying and operating AI agents across enterprise workflows.
+Pluggedspace Console
 
-Pluggedspace Console brings together:
+The operating environment for intelligent work.
 
-- AI agents
-- Agent orchestration
+"Pluggedspace Console" (https://agents.pluggedspace.org) is Pluggedspace's managed environment for deploying and operating AI agents across organizational workflows.
+
+Console brings together:
+
+- Agents
+- Orchestration
 - Memory
 - Tools and integrations
-- Policies and governance
-- Human-in-the-loop approvals
+- Policies
+- Governance
+- Human approvals
 - Workflow automation
 - Autonomous operations
 
-Pluggedspace Console supports manual, hybrid, and autonomous operating modes, and is hosted and operated by Pluggedspace as a managed service.
+It supports manual, hybrid, and autonomous operating modes.
 
-🔗 [Explore Pluggedspace Console](https://agents.pluggedspace.org)
-
----
-
-## How Atlas & Pluggedspace Console Fit Together
-
-Atlas and Pluggedspace Console are complementary layers of the Pluggedspace infrastructure stack.
-
-```
-┌──────────────────────────────────────────────┐
-│             PLUGGEDSPACE SOLUTIONS            │
-│       Enterprise Systems & Implementation     │
-├──────────────────────────────────────────────┤
-│                  CONSOLE                     │
-│        Managed Enterprise Agentic OS          │
-│                                                │
-│  Agents · Memory · Tools · Policies ·         │
-│  Workflows · Governance · Automation          │
-├──────────────────────────────────────────────┤
-│                     ATLAS                     │
-│      Intelligent Data & Systems Engine        │
-│                                                │
-│  Data · Models · APIs · Processing ·          │
-│  Intelligence · Automation · Execution        │
-└──────────────────────────────────────────────┘
-```
-
-- **Atlas** provides intelligence infrastructure.
-- **Pluggedspace Console** provides the agentic operating layer.
-
-Together, they form the core of Pluggedspace's intelligent infrastructure stack.
+→ "Explore Pluggedspace Console" (https://agents.pluggedspace.org)
 
 ---
 
-## Pluggedspace Solutions
+The Stack
 
-We use our platforms and engineering capabilities to design, build, integrate, and operate custom systems for organizations.
+Atlas and Console operate at different layers of the Pluggedspace technology stack.
 
-Our solutions include:
+                    PLUGGEDSPACE
+                         │
+                  ┌──────┴──────┐
+                  │   CONSOLE   │
+                  │             │
+                  │ Intelligent │
+                  │ Operations  │
+                  │             │
+                  │ Agents      │
+                  │ Workflows   │
+                  │ Memory      │
+                  │ Governance  │
+                  └──────┬──────┘
+                         │
+                  ┌──────┴──────┐
+                  │    ATLAS    │
+                  │             │
+                  │ Intelligence│
+                  │ & Systems   │
+                  │ Infrastructure│
+                  │             │
+                  │ Data        │
+                  │ Models      │
+                  │ APIs        │
+                  │ Processing  │
+                  └─────────────┘
 
-- Enterprise AI systems
-- Agentic automation
-- Data and intelligence platforms
-- Enterprise software
-- API and systems integration
-- Infrastructure engineering
-- Cybersecurity and compliance systems
-- Business process automation
-- Custom intelligent applications
+Atlas provides the systems and intelligence foundation.
 
-🔗 [Learn more](https://pluggedspace.org)
+Console provides the operational layer for intelligent work.
+
+Together they form part of the current Pluggedspace platform architecture.
 
 ---
 
-## Open Source
+Open Source
 
-We believe some infrastructure should be available to everyone. Pluggedspace open-sources selected software from our engineering and research work, particularly around security, compliance, infrastructure, and intelligent systems.
+We open-source selected technologies developed through our engineering and research work.
 
-### Ethical
+Our public repositories include infrastructure, security, compliance, developer tools, experiments, and other technologies that we believe can create value beyond Pluggedspace.
 
-Open-source security assessment toolkit for reconnaissance, vulnerability scanning, password auditing, log analysis, and security automation.
+Trust Portal
 
-- Network reconnaissance
-- Vulnerability scanning
-- Password strength auditing
-- Log analysis
-- Security workflow automation
-- Self-hostable web dashboard
-
-📦 [Repository](https://github.com/pluggedspace/ethical)
-
-### Trust Portal / Compliance OS
-
-Open-source infrastructure for continuous compliance. Provides a self-hosted workspace for managing compliance frameworks, controls, evidence, risks, audits, findings, policies, AI-assisted assessments, monitoring, and workflows.
+Open-source compliance and trust infrastructure for organizations managing security, governance, risks, evidence, audits, policies, and compliance workflows.
 
 Supported frameworks include:
 
@@ -128,78 +170,116 @@ Supported frameworks include:
 - GDPR
 - NDPR
 
-📦 [Repository](https://github.com/pluggedspace/trustportal)
+→ "Trust Portal" (https://github.com/pluggedspace/trustportal)
 
-### More Open Source
+Ethical
 
-Explore all of our public repositories:
-👉 [github.com/pluggedspace](https://github.com/pluggedspace?tab=repositories)
+Open-source security assessment and automation toolkit.
+
+Capabilities include:
+
+- Network reconnaissance
+- Vulnerability assessment
+- Password auditing
+- Log analysis
+- Security automation
+- Self-hosted security workflows
+
+→ "Ethical" (https://github.com/pluggedspace/ethical)
+
+Explore All Repositories
+
+→ "github.com/pluggedspace" (https://github.com/pluggedspace?tab=repositories)
 
 ---
 
-## Labs
+Technology
 
-Pluggedspace Labs is our research and experimentation environment, where we investigate new architectures, technologies, models, automation techniques, and intelligent systems.
+Our engineering work is built around open technologies and composable systems.
 
-Projects developed through Labs may eventually become:
+Our current stack includes:
 
-- Commercial products
-- Internal infrastructure
-- Open-source software
-- Research projects
-- Experimental technologies
+"Python" · "Django" · "PostgreSQL" · "pgvector" · "Redis" · "Celery" · "Next.js" · "TypeScript" · "SQL" · "DuckDB" · "Docker" · "Linux" · "Cloud Infrastructure"
+
+The specific technology stack evolves with the problem.
+
+Our engineering principles remain consistent:
+
+Composable systems.
+Interoperable infrastructure.
+Automation by default.
+Operational reliability.
+Evidence-driven development.
 
 ---
 
-## Research
+What We Explore
 
-Our research focuses on the engineering of intelligent systems and infrastructure.
+Our work is not restricted to a single technology category.
 
-Areas of interest include:
+Current and emerging areas include:
 
+- Artificial intelligence
 - Agentic systems
-- AI infrastructure
-- Data intelligence
-- Machine learning systems
+- Data infrastructure
 - Intelligent automation
-- Enterprise software architecture
+- Distributed systems
+- Software infrastructure
+- Security and governance
 - Decision systems
-- AI governance and trust
 - Human-AI collaboration
+- Developer infrastructure
+- Applied machine learning
+- Emerging computing technologies
+- Hardware and connected systems
 
-We publish selected technical research, whitepapers, architectural blueprints, experiments, and research projects.
+The technologies we work on will change.
 
-🔗 [Explore our research](https://pluggedspace.org/research)
-
----
-
-## Technology
-
-Our systems are built primarily with modern open technologies, including:
-
-`Python` · `Django` · `PostgreSQL` · `pgvector` · `Redis` · `Celery` · `Next.js` · `TypeScript` · `SQL` · `DuckDB` · `Docker` · `Linux` · `Cloud Infrastructure`
-
-Our architecture is designed around composability, automation, interoperability, and operational reliability.
+The problems we choose to solve are the constant.
 
 ---
 
-## Work With Us
+Work With Pluggedspace
 
-There are several ways to engage with Pluggedspace:
+There are several ways to engage with the Pluggedspace ecosystem.
 
-| Path | Description |
-|------|-------------|
-| **Platforms** | Use Atlas and Pluggedspace Console as managed infrastructure for intelligent systems. |
-| **Solutions** | Work with Pluggedspace Solutions to design and build custom enterprise systems. |
-| **Open Source** | Use, study, extend, and contribute to our public projects. |
-| **Research** | Explore our research and collaborate with us on applied intelligent-system architectures. |
+Path| Purpose
+Products| Use Pluggedspace platforms and technology.
+Solutions| Deploy and integrate technology into real organizational environments.
+Open Source| Use, study, extend, and contribute to our public projects.
+Research| Explore technical research, field tests, and engineering findings.
+Labs| Explore experiments and emerging technologies.
 
 ---
 
-### Pluggedspace
+Our Approach
 
-*Build intelligent infrastructure.*
-*Operate intelligent systems.*
-*Extend what software can do.*
+We believe useful technology sits at the intersection of research, engineering, and operations.
 
-[Website](https://pluggedspace.org) · [GitHub](https://github.com/pluggedspace) · [Atlas](https://atlas.pluggedspace.org) · [Pluggedspace Console](https://agents.pluggedspace.org) · [Research](https://pluggedspace.org/research)
+We do not build technology simply because it is possible.
+
+We investigate problems.
+
+We build.
+
+We test.
+
+We measure.
+
+We learn.
+
+Then we decide what deserves to become infrastructure, a product, an open-source project, or something else entirely.
+
+Research → Build → Test → Learn → Deploy
+      ↑                         │
+      └─────────────────────────┘
+
+---
+
+Pluggedspace
+
+Research. Build. Deploy.
+
+Technology for complex systems.
+
+"Website" (https://pluggedspace.org) · "Labs" (https://pluggedspace.org/labs) · "Research" (https://pluggedspace.org/research) · "Products" (https://pluggedspace.org/products) · "GitHub" (https://github.com/pluggedspace)

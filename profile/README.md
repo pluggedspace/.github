@@ -44,16 +44,6 @@ Pluggedspace currently develops independent products and platforms for intellige
 
 **→ [Explore Atlas](https://atlas.pluggedspace.org)**
 
-### Pluggedspace Console
-
-**An operating environment for intelligent work.**
-
-[Pluggedspace Console](https://agents.pluggedspace.org) is a managed environment for deploying and operating AI agents across organizational workflows.
-
-Console supports human-directed, hybrid, and autonomous operating modes through agents, workflows, tools, memory, policies, governance, and automation.
-
-**→ [Explore Console](https://agents.pluggedspace.org)**
-
 ---
 
 ## Research
